@@ -1,0 +1,11 @@
+{
+    "version": "v0.1.2",
+    "notes": "rocketboots v1 revision build",
+    "pub_date": "2024-09-03T13:26:57Z",
+    "platforms": {
+      "linux-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnROMVZicEpLQldxY0N2S08zSGo0RHJ4NjlHTC9RZ05DemtCV1VGbDliZW11Rm93U092NlVUWmdBNFgxUy9LeVpxTzN1UWJMaldKWVpIYWFmeEZpOWMvSk1zb05CWXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1MzcxNTg0CWZpbGU6cm9ja2V0Ym9vdHNfMC4xLjJfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Cnd3c0hiUGJaRVhmOTlScHZVZ2tYQ3F0TS9WejU4MEw5clZuZFRvc0xjL0Z5ZEttdlhwbnZXeVBHaTFCS3V6dWNmT2R0RkllVU8wMWFSaHBvcnNKUkJ3PT0K",
+        "url": "https://github.com/laurentiu-dancu/rocketboots-builds/releases/download/v0.1.2/rocketboots_0.1.2_amd64.AppImage.tar.gz"
+      }
+    }
+  }
